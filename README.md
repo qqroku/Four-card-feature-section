@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/qqroku/Four-card-feature-section)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://qqroku.github.io/Four-card-feature-section/)
 
 ## My process
 
